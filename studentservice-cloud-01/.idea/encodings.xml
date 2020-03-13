@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../studentservice-cloud-02-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../studentservice-cloud-03-provider-product-8001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../studentservice-cloud-04-consumer-product-80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../studentservice-cloud-05-eureka-6001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../studentservice-cloud-05-eureka-6002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../studentservice-cloud-06-provider-product-8002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../studentservice-cloud-07-consumer-product-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../studentservice-cloud-08-provider-product-hystrix-8001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../studentservice-cloud-09-hystrix-dashboard-9001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../studentservice-cloud-10-zuul-gateway-7001/src/main/java" charset="UTF-8" />
+  </component>
+</project>
